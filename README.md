@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niraj Mannase
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning App Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me : Email me on - mannaseniraj@gmail.com
 

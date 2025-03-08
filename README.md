@@ -29,7 +29,7 @@
 🔹 **[Travel Genie Website](#)** – React.js, Node.js, MongoDB  
 
 ## 📊 GitHub Stats  
-![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajmannase&show_icons=true&theme=tokyonight)  
+![Niraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niraj214&show_icons=true&theme=tokyonight)  
 
 ## 📫 Connect with Me  
 📩 **Email:** mannaseniraj@gmail.com  
